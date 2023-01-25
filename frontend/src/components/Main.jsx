@@ -1,5 +1,3 @@
-//component with an input field and a button to send the email
-
 import React, { useState } from "react";
 
 import "./main.css";
